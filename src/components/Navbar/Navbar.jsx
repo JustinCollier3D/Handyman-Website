@@ -17,12 +17,11 @@ const Navbar = () => {
       <ul className="app__navbar-links">
         <li className="p__opensans"><a href="#home">Home</a></li>
         <li className="p__opensans"><a href="#services">Services</a></li>
-        <li className="p__opensans"><a href="#about">About</a></li>
         <li className="p__opensans"><a href="#contact">Contact</a></li>
       </ul>
 
       <div className="app__navbar-quote">
-        <a href="/" className="p__opensans"> Get A Quote Today</a>
+        <a href="tel:+9054095959" className="p__opensans"> Get A Quote Today</a>
       </div>
 
       <div className="app__navbar-smallscreen">
@@ -35,7 +34,6 @@ const Navbar = () => {
 
               <ul className="app__navbar-smallscreen_links">
               <li className="p__opensans>"><a href="#home">Home</a></li>
-              <li className="p__opensans>"><a href="#about">About</a></li>
               <li className="p__opensans>"><a href="#services">Services</a></li>
               <li className="p__opensans>"><a href="#contact">Contact</a></li>
             </ul>

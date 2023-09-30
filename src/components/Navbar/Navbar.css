@@ -122,7 +122,6 @@
     color: var(--color-white);
     font-size: 2rem;
     text-align: center;
-    font-family: var(--font-base);
 }
 
 .app__navbar-smallscreen_links li
